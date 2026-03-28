@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":125,"description":"制作精良 平衡性良好的武器 特别适合新人练手","etypeId":1,"traits":[],"iconIndex":336,"name":"基础剑","note":"","params":[0,0,8,0,0,0,0,4],"price":56,"wtypeId":2},
+{"id":2,"animationId":125,"description":"独一无二的古董宝剑 物价之宝物 相传古代勇士曾用它杀死\n魔王","etypeId":1,"traits":[],"iconIndex":339,"name":"勇士剑","note":"","params":[0,0,30,0,0,0,0,9],"price":0,"wtypeId":2},
+{"id":3,"animationId":125,"description":"使用上好的炮弹钢材 千锤百炼并经过特殊淬火工艺制成的武\n器 刀口锋利异常","etypeId":1,"traits":[],"iconIndex":337,"name":"炮钢剑","note":"","params":[0,0,25,0,0,0,0,6],"price":211,"wtypeId":2},
+{"id":4,"animationId":125,"description":"使用天外陨星碎片制作的宝剑 不仅剑身强度极高通体还散发\n着神秘幽光","etypeId":1,"traits":[],"iconIndex":338,"name":"星光剑","note":"","params":[0,0,120,0,0,0,0,13],"price":735,"wtypeId":2},
+{"id":5,"animationId":125,"description":"该武器乃是传说中的斩龙神器 龙之克星 刀口锋芒毕露极度嗜\n血","etypeId":1,"traits":[],"iconIndex":340,"name":"屠龙刀","note":"","params":[0,0,238,0,0,0,0,18],"price":1780,"wtypeId":2},
+{"id":6,"animationId":125,"description":"据说是这个世界上最强最坚固的剑 没有之一！","etypeId":1,"traits":[],"iconIndex":341,"name":"神圣剑","note":"","params":[0,0,500,0,0,0,0,24],"price":4520,"wtypeId":2},
+{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
