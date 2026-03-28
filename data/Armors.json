@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"制作精良 重量适中 特别适合新人防身","etypeId":2,"traits":[],"iconIndex":352,"name":"基础盾","note":"","params":[0,0,0,8,0,0,0,0],"price":43},
+{"id":2,"atypeId":5,"description":"使用上好的炮弹钢材 千锤百炼并经过特殊淬火工艺制成的护\n盾 ","etypeId":2,"traits":[],"iconIndex":353,"name":"炮钢盾","note":"","params":[0,0,0,23,0,0,0,0],"price":133},
+{"id":3,"atypeId":5,"description":"使用天外陨星碎片制作的护盾 不仅盾面强度极高通体还散发\n着神秘幽光","etypeId":2,"traits":[],"iconIndex":354,"name":"星光盾","note":"","params":[0,0,0,116,0,0,0,0],"price":350},
+{"id":4,"atypeId":5,"description":"盾体坚硬异常 相传是上古屠龙英雄所持有的盾牌 盾牌上早已\n被龙之血浸泡入味","etypeId":2,"traits":[],"iconIndex":355,"name":"龙血盾","note":"","params":[0,0,0,244,0,0,0,0],"price":850},
+{"id":5,"atypeId":1,"description":"角色装备后月牙飞刀的冷却时间缩短80%","etypeId":5,"traits":[],"iconIndex":156,"name":"玄月护符","note":"","params":[0,0,0,0,0,0,0,0],"price":4600},
+{"id":6,"atypeId":1,"description":"其为降妖除魔义士们的制式铠甲 不仅可以抵挡来自兵刃的伤害 \n还能给穿戴的人带来好运！","etypeId":4,"traits":[],"iconIndex":155,"name":"天罡星铠甲","note":"","params":[0,0,0,172,0,0,0,5],"price":2160},
+{"id":7,"atypeId":5,"description":"琉璃和小雯的挚友——苒苒在大墓地被怪物分尸后留下的半截断手\n装备后角色暴击率+3","etypeId":5,"traits":[],"iconIndex":175,"name":"苒苒的断手","note":"","params":[0,0,0,0,0,0,0,3],"price":0},
+{"id":8,"atypeId":5,"description":"据说是这个世上最强最坚固的盾牌 没有之一！","etypeId":2,"traits":[],"iconIndex":356,"name":"神圣盾","note":"","params":[0,0,0,498,0,0,0,3],"price":2890},
+{"id":9,"atypeId":1,"description":"传奇屠龙勇士的限量版订制铠甲 \n不仅非常实用而且其外观也极为精美！","etypeId":4,"traits":[],"iconIndex":157,"name":"屠龙铠甲","note":"","params":[0,0,0,420,0,0,0,10],"price":6800},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
